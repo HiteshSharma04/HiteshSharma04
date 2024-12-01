@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, I am a dedicated and enthusiastic tech professional with a strong foundation in both backend and frontend development. As a fresher, I am eager to apply my knowledge in Python and its frameworks, including NumPy, Pandas, Matplotlib, Seaborn, Django, Turtle, Tkinter, SMTP, and Selenium, to real-world projects. My frontend skills in HTML, CSS, Bootstrap, and React.js enable me to create engaging and user-friendly web interfaces.
+Hi!, I am a dedicated and enthusiastic tech professional with a strong foundation in both backend and frontend development. As a fresher, I am eager to apply my knowledge in Python and its frameworks, including NumPy, Pandas, Matplotlib, Seaborn, Django, Flask, Turtle, Tkinter, SMTP, and Selenium, to real-world projects. My frontend skills in HTML, CSS, Bootstrap, and React.js enable me to create engaging and user-friendly web interfaces.
 
 With a solid understanding of SQL for database management, and foundational knowledge of AWS for cloud computing, I am well-prepared to contribute to innovative and dynamic environments. My familiarity with CCNA, Linux, and Certified Ethical Hacking (CeH) further demonstrates my commitment to continuous learning and technical growth.
 
@@ -17,6 +17,7 @@ I am excited to bring my energy, creativity, and problem-solving abilities to a 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=Seaborn&logoColor=black)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Turtle](https://img.shields.io/badge/Turtle-013243?style=for-the-badge&logo=Python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-013243?style=for-the-badge&logo=Python&logoColor=white)
 ![SMTP](https://img.shields.io/badge/SMTP-D14836?style=for-the-badge&logo=gmail&logoColor=white)
